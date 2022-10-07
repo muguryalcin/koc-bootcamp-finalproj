@@ -7,3 +7,7 @@ After preprocessing all the images, you need to put them into a folder named 'sp
 - MODEL NOTEBOOK: First, you must do all the steps in the preprocessing notebook. Second, if you have a folder named 'spectrogram_data', you can just run the cells and get a working CNN model.
 
 ### Note: If you want to work on these notebooks on Colab, you need to upload 'spectrogram_data' as a zip file. After uploading the zip file, you need to run !unzip cell in the model notebook.
+
+## Colab Links :
+- MODEL: https://colab.research.google.com/drive/1ax0mXw0jMI_doE-jnoOQKOeiRIUlqJSe?usp=sharing
+- PREPROCESSING: https://colab.research.google.com/drive/1PWlTANUwGJNZ3QFz96J98y1vv8APbpTe?usp=sharing
